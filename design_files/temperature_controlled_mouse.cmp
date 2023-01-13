@@ -1,0 +1,66 @@
+Cmp-Mod V01 Created by CvPCB (20100228 RC5)-RC5 date = 5/15/2012 11:31:06 AM
+
+BeginCmp
+TimeStamp = /4FB1D641;
+Reference = B1;
+ValeurCmp = BATTERY_2;
+IdModule  = CP5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB1D63D;
+Reference = B2;
+ValeurCmp = BATTERY_1;
+IdModule  = CP5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB1D629;
+Reference = P1;
+ValeurCmp = RJ11;
+IdModule  = RJ12_E;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB1D60D;
+Reference = Pelt1;
+ValeurCmp = Pelt;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB1D604;
+Reference = R1;
+ValeurCmp = R10;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB274DC;
+Reference = R2;
+ValeurCmp = R47K;
+IdModule  = R5;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB1D5F8;
+Reference = T1;
+ValeurCmp = LM35DZ;
+IdModule  = LM2931;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB1D621;
+Reference = U1;
+ValeurCmp = L293D;
+IdModule  = DIP-16__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /4FB1D636;
+Reference = U2;
+ValeurCmp = PIC16F877A;
+IdModule  = DIP-40__600_ELL;
+EndCmp
+
+EndListe
