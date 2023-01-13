@@ -34,7 +34,7 @@ Why make a 'temperature-controlled' mouse?
 I used to play a lot of computer games, and was looking for whatever way to get
 an edge in my APM— I had the speculative theory that a heated mouse could
 improve the function of the mouse hand. Though the theory never panned out, I
-printed the PCB board and housed the creation in a prototype mouse shell-- the
+printed the PCB board and housed the creation in a prototype mouse shell— the
 thermoelectric element worked like magic!
 
 
