@@ -1,6 +1,6 @@
 # Temperature-controlled mouse
 
-Design and fabrication files for a temperature-controlled mouse.
+Design and fabrication files for a temperature-controlled computer mouse.
 
 
 ## Description
